@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shani-Chochezi
-- 👀 I’m interested in Ar/Vr, Machine Learning, Big Data, & Cybersecurity
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on projects written in Java, Scala, Python, or C++
+- 👋 Hi, I’m @Shani-Chochezi and I have not posted my work yet
+- 👀 I’m interested in Cybersecurity and Artificial Intelligence
+- 🌱 I’m currently learning more than I can delineate at the moment
+- 💞️ I’m looking to collaborate on projects written in Java, JavaScript, Python, Swift, C#, or C++
 - 📫 How to reach me : ShaniChochezi@gmail.com
 
 <!---
