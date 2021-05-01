@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shani-Chochezi and I have not posted my work yet
 - 👀 I’m interested in Cybersecurity and Artificial Intelligence
-- 🌱 I’m currently learning more than I can delineate at the moment
-- 💞️ I’m looking to collaborate on projects written in Java, JavaScript, & C/C++
+- 🌱 I’m currently learning Cybersecurity, Java, JavaScript, Python, & C/C++
+- 💞️ I’m looking to collaborate on projects written in Java, JavaScript, Python, & C/C++
 - 📫 How to reach me : ShaniChochezi@gmail.com
 
 <!---
